@@ -1,0 +1,4 @@
+clear
+git status
+git commit -m "Update Homework1.py"
+git push origin main
